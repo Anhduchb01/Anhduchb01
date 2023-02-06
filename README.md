@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đức</h1>
 <h3 align="center">I am a majoring in Data Science & Artificial Intelligence at Hanoi University of Science and Technology.</h3>
-<h3 I already have basic knowledge of Machine Learning algorithms, Deep Learning ,NLP.
+<h3 align="center"> I already have basic knowledge of Machine Learning algorithms, Deep Learning ,NLP.
 In addition, I also have experiments of web development with vuejs , express, django, flask and deploy it to AWS.</h3>
 
 <h3 align="left">Connect with me:</h3>
